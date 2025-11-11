@@ -1,1 +1,2 @@
-Hola, estoy en B
+Hola, estoy en A
+Hola desde B
